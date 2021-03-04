@@ -1,0 +1,10 @@
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/appsettings.Development.json
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/appsettings.json
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/webapi.dll
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/webapi.deps.json
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/webapi.runtimeconfig.json
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/webapi.pdb
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/Microsoft.OpenApi.dll
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/Swashbuckle.AspNetCore.Swagger.dll
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/guerrero/Projects/cg/cibergestion.api.uvs/deploy/webapi/Swashbuckle.AspNetCore.SwaggerUI.dll
