@@ -3,8 +3,8 @@
 ## Instalación 
 
 - Clonar repositorio
-- ejecutar > dotnet tool install Cake.Tool --version 1.0.0
-- ejecutar > dotnet cake 
+- Ejecutar > dotnet tool install Cake.Tool --version 1.0.0
+- Ejecutar > dotnet cake 
 
 Archivo de configuración: build.cake
 
