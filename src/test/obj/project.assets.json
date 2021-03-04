@@ -5923,11 +5923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/test/test.csproj",
+      "projectUniqueName": "/Users/guerrero/Projects/cg/example-cake-net/src/test/test.csproj",
       "projectName": "test",
-      "projectPath": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/test/test.csproj",
+      "projectPath": "/Users/guerrero/Projects/cg/example-cake-net/src/test/test.csproj",
       "packagesPath": "/Users/guerrero/.nuget/packages/",
-      "outputPath": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/test/obj/",
+      "outputPath": "/Users/guerrero/Projects/cg/example-cake-net/src/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/guerrero/.nuget/NuGet/NuGet.Config"
@@ -5942,8 +5942,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/webapi.csproj": {
-              "projectPath": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/webapi.csproj"
+            "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/webapi.csproj": {
+              "projectPath": "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/webapi.csproj"
             }
           }
         }

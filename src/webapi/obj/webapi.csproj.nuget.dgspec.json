@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/webapi.csproj": {}
+    "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/webapi.csproj": {}
   },
   "projects": {
-    "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/webapi.csproj": {
+    "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/webapi.csproj",
+        "projectUniqueName": "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/webapi.csproj",
+        "projectPath": "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/webapi.csproj",
         "packagesPath": "/Users/guerrero/.nuget/packages/",
-        "outputPath": "/Users/guerrero/Projects/cg/cibergestion.api.uvs/src/webapi/obj/",
+        "outputPath": "/Users/guerrero/Projects/cg/example-cake-net/src/webapi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/guerrero/.nuget/NuGet/NuGet.Config"
